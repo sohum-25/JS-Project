@@ -1,2 +1,2 @@
 # JS-Project
-Just essing around with some Javascript syntax.
+Just messing around with some Javascript syntax.
